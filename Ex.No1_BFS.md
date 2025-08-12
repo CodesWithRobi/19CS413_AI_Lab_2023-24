@@ -1,5 +1,5 @@
 # Ex.No: 1  Implementation of Breadth First Search 
-### DATE:                                                                            
+### DATE: 12/08/25                                         
 ### REGISTER NUMBER : 212223040170
 ### AIM: 
 To write a python program to implement Breadth first Search. 
@@ -45,6 +45,7 @@ bfs("1")
 ```
 
 ### Output:
+<img width="655" height="196" alt="image" src="https://github.com/user-attachments/assets/ee6252ea-826e-4ce1-9d86-7658d9ab3762" />
 
 
 ### Result:
