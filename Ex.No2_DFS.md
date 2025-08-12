@@ -42,6 +42,5 @@ dfs("1")
 ### Output:
 
 
-
 ### Result:
 Thus the depth first search order was found sucessfully.
