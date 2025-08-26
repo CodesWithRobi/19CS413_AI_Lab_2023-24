@@ -46,8 +46,7 @@ function minimax(board, depth, isMaximizingPlayer):
 
 
 ### Output:
-
-
+<img width="686" height="90" alt="image" src="https://github.com/user-attachments/assets/363eb47b-02d8-405e-a8ab-8d8f768e8db2" />
 
 ### Result:
 Thus the optimum value of max player was found using minimax search.
