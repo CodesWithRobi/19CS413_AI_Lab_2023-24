@@ -1,6 +1,6 @@
 # Ex.No: 3  Implementation of Minimax Search
-### DATE:                                                                            
-### REGISTER NUMBER : 
+### DATE: 26/08/25                                                                           
+### REGISTER NUMBER : 212223040170
 ### AIM: 
 Write a mini-max search algorithm to find the optimal value of MAX Player from the given graph.
 ### Algorithm:
@@ -15,15 +15,34 @@ Write a mini-max search algorithm to find the optimal value of MAX Player from t
 9. Stop the program. 
 
 ### Program:
+```python
+function minimax(board, depth, isMaximizingPlayer):
+   # First, check if the game is over
+   if game is won:
+       return +10 if computer wins, -10 if human wins
+   if game is tied:
+       return 0
 
+   # If it's the computer's turn (maximizing)
+   if isMaximizingPlayer:
+       bestScore = -infinity
+       for each empty spot on board:
+           make the move
+           score = minimax(board, depth + 1, false)
+           undo the move
+           bestScore = max(score, bestScore)
+       return bestScore
 
-
-
-
-
-
-
-
+   # If it's the human's turn (minimizing)
+   else:
+       bestScore = +infinity
+       for each empty spot on board:
+           make the move
+           score = minimax(board, depth + 1, true)
+           undo the move
+           bestScore = min(score, bestScore)
+       return bestScore
+```
 
 
 ### Output:
