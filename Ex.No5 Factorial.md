@@ -23,6 +23,7 @@ fact(A,Res) :-
 
 
 ### Output:
+<img width="935" height="537" alt="image" src="https://github.com/user-attachments/assets/4cd224b7-ca4b-4d97-a691-4628cecfa06d" />
 
 
 
