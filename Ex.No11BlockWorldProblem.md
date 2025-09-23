@@ -82,10 +82,5 @@ Step 10 : Obtain the plan for given problem.<br>
 
 <img width="626" height="564" alt="image" src="https://github.com/user-attachments/assets/6e94d2d3-ae4b-477b-9ae7-8ef7abea11f8" />
 
-### RESULT :
-Thus the plan for given block world problem is obtained by PDDL editor or STRIPS FIDDLE
-using domain description.
-
-
 ### Result:
 Thus the plan was found for the initial and goal state of block world problem.
