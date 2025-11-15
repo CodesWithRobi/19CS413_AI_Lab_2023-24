@@ -1,6 +1,6 @@
 # Ex.No: 8  Logic Programming –  Medical Diagnosis Expert System
 ### DATE: 16/09/2025
-### REGISTER NUMBER : ROBINSON J 
+### REGISTER NUMBER : 212223040170 
 ### AIM: 
 Write a Prolog program to build a medical Diagnosis Expert System.
 ###  Algorithm:
